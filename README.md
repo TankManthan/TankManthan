@@ -33,6 +33,12 @@ I’m driven by curiosity, continuous learning, and a desire to turn ideas into 
 #### 🗣️ [Jarvis Voice Assistant](https://github.com/TankManthan/python-Jarvis-Voice-Assistant.git)
 An intelligent **Python-based voice assistant** capable of performing real-time tasks using **SpeechRecognition**, **REST APIs**, and **pyttsx3**.
 
+#### 💡 [Ai Assisted Collaborative Diagraming Tool](https://github.com/TankManthan/python-internship-project1.git)
+ A collaborative whiteboard app built with FastAPI + WebSockets. Users can draw shapes, freehand strokes, or upload images.
+
+#### 🌦️ [Real-time Urban Micro-Climate Map](https://github.com/TankManthan/python-internship-project2.git)
+ A computer vision system that analyzes public webcam feeds to visualize city comfort levels (sun, wind, wetness) on a live interactive map.
+ 
 #### 🛒 [Food Center](https://github.com/TankManthan/foodcenter.git)
 A responsive **e-commerce platform** built with **PHP**, **MySQL**, and **Bootstrap** for seamless product browsing, secure checkout, and admin management.
 
@@ -42,7 +48,7 @@ An interactive **JavaScript** game with dynamic UI, turn-based logic, and respon
 #### 📋 [Bootstrap Documentation Clone](https://github.com/TankManthan/bootstrap-bootstrapClone.git)
 A Bootstrap Documentation Clone that recreates the official “Get Started” page of Bootstrap 5.3 — all built with HTML, CSS, and JavaScript.
 
-#### 📋 [Quick Access Dashboard](https://github.com/TankManthan/bootstrap-quick-access-dashboard.git)
+#### 📊 [Quick Access Dashboard](https://github.com/TankManthan/bootstrap-quick-access-dashboard.git)
 Quick Access Dashboard brings together essential productivity, AI, and networking tools in one place. Explore platforms like Bootstrap, ChatGPT, GitHub, Google, and more with instant shortcuts, all designed to boost efficiency and save time.
 
 #### 🎮 [Snake Water Gun Game](https://github.com/TankManthan/python-Snake-Water-Gun.git)
