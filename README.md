@@ -30,6 +30,9 @@ I’m driven by curiosity, continuous learning, and a desire to turn ideas into 
 
 ### 💼 Featured Projects
 
+<div align="center" style="max-height: 400px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 10px;">
+
+
 #### 🗣️ [Jarvis Voice Assistant](https://github.com/TankManthan/python-Jarvis-Voice-Assistant.git)
 An intelligent **Python-based voice assistant** capable of performing real-time tasks using **SpeechRecognition**, **REST APIs**, and **pyttsx3**.
 
@@ -51,61 +54,8 @@ Python program implements a simple Snake-Water-Gun game, similar to Rock-Paper-S
 #### 🎮 [Guess Number](https://github.com/TankManthan/python-Guess_Number.git)
  Python program implements a number guessing game where the player attempts to guess a number. The player repeatedly inputs guesses until they match the target number.
 
- <section class="container my-5">
-  <h2 class="text-center mb-4">🚀 Featured Projects</h2>
 
-  <!-- Scrollable container -->
-  <div class="overflow-auto p-3 bg-light rounded shadow-sm" style="max-height: 600px;">
-    <div class="row row-cols-1 g-3">
-
-      <!-- Project 1 -->
-      <div class="col">
-        <div class="card h-100 border-0 shadow-sm">
-          <div class="card-body">
-            <h5 class="card-title">🗣️ Jarvis Voice Assistant</h5>
-            <p class="card-text">A Python-based intelligent voice assistant using REST APIs, SpeechRecognition, and pyttsx3.</p>
-            <a href="https://github.com/TankManthan/python-Jarvis-Voice-Assistant.git" target="_blank" class="btn btn-primary btn-sm">View Project</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Project 2 -->
-      <div class="col">
-        <div class="card h-100 border-0 shadow-sm">
-          <div class="card-body">
-            <h5 class="card-title">🛒 Food Center</h5>
-            <p class="card-text">A responsive e-commerce platform built with PHP, MySQL, and Bootstrap 5.</p>
-            <a href="https://github.com/TankManthan/foodcenter.git" target="_blank" class="btn btn-primary btn-sm">View Project</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Project 3 -->
-      <div class="col">
-        <div class="card h-100 border-0 shadow-sm">
-          <div class="card-body">
-            <h5 class="card-title">🎮 Tic Tac Toe Game</h5>
-            <p class="card-text">Interactive 2-player JavaScript game with win detection and smooth transitions.</p>
-            <a href="https://github.com/TankManthan/js-Tic-Tac-Toe-Game.git" target="_blank" class="btn btn-primary btn-sm">View Project</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Project 4 -->
-      <div class="col">
-        <div class="card h-100 border-0 shadow-sm">
-          <div class="card-body">
-            <h5 class="card-title">⚙️ Automation Script</h5>
-            <p class="card-text">A Python automation tool that streamlines repetitive workflows using REST APIs.</p>
-            <a href="#" target="_blank" class="btn btn-primary btn-sm">View Project</a>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
+</div>
 
 ---
 
