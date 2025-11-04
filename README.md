@@ -33,26 +33,26 @@ I’m driven by curiosity, continuous learning, and a desire to turn ideas into 
 <div align="center" style="max-height: 400px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 10px;">
 
 
-#### 🗣️ [Jarvis Voice Assistant](https://github.com/TankManthan/python-Jarvis-Voice-Assistant.git)
-An intelligent **Python-based voice assistant** capable of performing real-time tasks using **SpeechRecognition**, **REST APIs**, and **pyttsx3**.
-
-#### 🛒 [Food Center](https://github.com/TankManthan/foodcenter.git)
-A responsive **e-commerce platform** built with **PHP**, **MySQL**, and **Bootstrap** for seamless product browsing, secure checkout, and admin management.
-
-#### 🎮 [Tic Tac Toe Game](https://github.com/TankManthan/js-Tic-Tac-Toe-Game.git)
-An interactive **JavaScript** game with dynamic UI, turn-based logic, and responsive layout for two-player fun.
-
-#### 📋 [Bootstrap Documentation Clone](https://github.com/TankManthan/bootstrap-bootstrapClone.git)
-A Bootstrap Documentation Clone that recreates the official “Get Started” page of Bootstrap 5.3 — all built with HTML, CSS, and JavaScript.
-
-#### 📋 [Quick Access Dashboard](https://github.com/TankManthan/bootstrap-quick-access-dashboard.git)
-Quick Access Dashboard brings together essential productivity, AI, and networking tools in one place. Explore platforms like Bootstrap, ChatGPT, GitHub, Google, and more with instant shortcuts, all designed to boost efficiency and save time.
-
-#### 🎮 [Snake Water Gun Game](https://github.com/TankManthan/python-Snake-Water-Gun.git)
-Python program implements a simple Snake-Water-Gun game, similar to Rock-Paper-Scissors. It uses the following logic: Snake (1) drinks water → Snake wins. Water (-1) douses the gun → Water wins. Gun (0) kills the snake → Gun wins.
-
-#### 🎮 [Guess Number](https://github.com/TankManthan/python-Guess_Number.git)
- Python program implements a number guessing game where the player attempts to guess a number. The player repeatedly inputs guesses until they match the target number.
+      #### 🗣️ [Jarvis Voice Assistant](https://github.com/TankManthan/python-Jarvis-Voice-Assistant.git)
+      An intelligent **Python-based voice assistant** capable of performing real-time tasks using **SpeechRecognition**, **REST APIs**, and **pyttsx3**.
+      
+      #### 🛒 [Food Center](https://github.com/TankManthan/foodcenter.git)
+      A responsive **e-commerce platform** built with **PHP**, **MySQL**, and **Bootstrap** for seamless product browsing, secure checkout, and admin management.
+      
+      #### 🎮 [Tic Tac Toe Game](https://github.com/TankManthan/js-Tic-Tac-Toe-Game.git)
+      An interactive **JavaScript** game with dynamic UI, turn-based logic, and responsive layout for two-player fun.
+      
+      #### 📋 [Bootstrap Documentation Clone](https://github.com/TankManthan/bootstrap-bootstrapClone.git)
+      A Bootstrap Documentation Clone that recreates the official “Get Started” page of Bootstrap 5.3 — all built with HTML, CSS, and JavaScript.
+      
+      #### 📋 [Quick Access Dashboard](https://github.com/TankManthan/bootstrap-quick-access-dashboard.git)
+      Quick Access Dashboard brings together essential productivity, AI, and networking tools in one place. Explore platforms like Bootstrap, ChatGPT, GitHub, Google, and more with instant shortcuts, all designed to boost efficiency and save time.
+      
+      #### 🎮 [Snake Water Gun Game](https://github.com/TankManthan/python-Snake-Water-Gun.git)
+      Python program implements a simple Snake-Water-Gun game, similar to Rock-Paper-Scissors. It uses the following logic: Snake (1) drinks water → Snake wins. Water (-1) douses the gun → Water wins. Gun (0) kills the snake → Gun wins.
+      
+      #### 🎮 [Guess Number](https://github.com/TankManthan/python-Guess_Number.git)
+       Python program implements a number guessing game where the player attempts to guess a number. The player repeatedly inputs guesses until they match the target number.
 
 
 </div>
