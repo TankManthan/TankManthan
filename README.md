@@ -81,7 +81,7 @@ Gained hands-on experience in teamwork, testing, and clean code practices.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TankManthan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=TankManthan&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=TankManthan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
