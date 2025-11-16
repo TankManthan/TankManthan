@@ -33,6 +33,9 @@ I’m driven by curiosity, continuous learning, and a desire to turn ideas into 
 #### 🗣️ [Jarvis Voice Assistant](https://github.com/TankManthan/python-Jarvis-Voice-Assistant.git)
 An intelligent **Python-based voice assistant** capable of performing real-time tasks using **SpeechRecognition**, **REST APIs**, and **pyttsx3**.
 
+#### 🗣️ [Python Chatbot](https://github.com/TankManthan/python-Flask-chatbot.git)
+A modern, ChatGPT-styled chatbot powered by Python + Flask with live search (Wikipedia + DuckDuckGo) and smart summarization.
+
 #### 💡 [Ai Assisted Collaborative Diagraming Tool](https://github.com/TankManthan/python-internship-project1.git)
  A collaborative whiteboard app built with FastAPI + WebSockets. Users can draw shapes, freehand strokes, or upload images.
 
