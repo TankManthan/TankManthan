@@ -1,7 +1,7 @@
 <!-- Profile README for @TankManthan -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Manthan Tank</span></h1>
-<h3 align="center">💻 Aspiring Full-Stack Developer | 🐍 Python Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 Aspiring Full-Stack Developer | 🐍 Python Enthusiast | 🌱 Lifelong Learner</h3> 
 
 ---
 
